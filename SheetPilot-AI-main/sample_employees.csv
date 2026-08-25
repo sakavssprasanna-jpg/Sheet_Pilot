@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Role,Salary,Q3_Revenue
+101,Alice Smith,Sales,Account Executive,75000,120000
+102,Bob Johnson,Sales,Sales Manager,95000,240000
+103,Charlie Brown,Engineering,Software Engineer,110000,0
+104,Diana Prince,Engineering,Tech Lead,135000,0
+105,Evan Wright,Sales,Account Executive,72000,95000
+106,Fiona Gallagher,HR,Recruiter,65000,0
+107,George Costanza,Sales,Account Executive,68000,45000
+108,Harriet Tubman,Operations,Operations Manager,85000,0
+109,Ian Malcolm,Engineering,Data Scientist,105000,12000
+110,Julia Roberts,Sales,Sales Director,125000,320000
